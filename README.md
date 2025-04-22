@@ -1,2 +1,16 @@
-# Data-Analysis-Showcase
-Predictive Modeling and Data Visualization with different datasets.  In this notebook, I perform data wrangling, build a predictive model, and visualize insights using Python libraries such as Pandas, scikit-learn, and Matplotlib.
+# Data Processing Project
+
+This repository showcases my skills in data analysis, feature extraction, text processing, and data cleaning using Python.
+
+## Notebooks:
+- **Feature Extraction**: Techniques for scaling, binarization, and transforming categorical variables.
+- **Text Data Processing**: Processing text data using TF-IDF Vectorization.
+- **Data Cleaning**: Techniques for handling missing values and encoding categorical variables.
+
+## Technologies Used:
+- Python
+- Pandas
+- scikit-learn
+- Matplotlib
+- Seaborn
+
